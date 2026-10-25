@@ -11,3 +11,8 @@ title: Policies
 
 - [プライバシーポリシー](nanitabe/privacy/)
 - [利用規約](nanitabe/terms/)
+
+## サイズアウト
+
+- [プライバシーポリシー](sizeout/privacy/)
+- [利用規約](sizeout/terms/)
